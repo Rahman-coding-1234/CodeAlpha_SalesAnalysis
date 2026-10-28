@@ -13,4 +13,4 @@ Superstore sales analysis using Python (pandas, matplotlib, seaborn).
 
 ## Files
 - Superstore_Analysis.ipynb: Colab notebook with all code
-- superstore.csv: dataset usedD
+- superstore.csv: dataset used
